@@ -11,4 +11,4 @@
 |
 */
 
-Route::get('/', 'NewsController@index');
+Route::get('/', 'NoticiasController@index');
